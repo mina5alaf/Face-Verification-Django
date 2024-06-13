@@ -18,8 +18,6 @@
 
 ## Request:
   - using Postman (or any other software), send a request in the body
-    json```
-{
+`{
 "image_url": "C:/Users/minak/Desktop/Face Verification/img2.jpg"
-}
-     ```
+}`
