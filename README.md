@@ -1,7 +1,7 @@
 # Face-Verification-Django
 
 ## User manual:
-  ### using git repo:
+  ### using Django:
     1- fork this repo
     2- clone it on your local machine
     3- change the working directory to the cloned one using CMD
