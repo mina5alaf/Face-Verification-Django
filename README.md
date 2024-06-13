@@ -2,14 +2,14 @@
   - A system for face verification built in Django. Integrated with an AI model to recognize faces.
     
 ## User manual:
-  ### using Django:
+  ### Using Django:
   - fork this repo
   - clone it on your local machine
   - change the working directory to the cloned one using CMD
   - then go to face_verification directory
   - in the cmd write: `python manage.py runserver`
 
-  ### using docker
+  ### Using docker
   - fork this repo
   - clone it on your local machine
   - change the working directory to the cloned one using CMD
