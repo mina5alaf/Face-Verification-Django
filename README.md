@@ -19,5 +19,5 @@
 ## Request:
   - using Postman (or any other software), send a request in the body
 `{
-"image_url": "C:/Users/minak/Desktop/Face Verification/img2.jpg"
+"image_url": "ABSOLUTE PATH TO YOUR IMAGE"
 }`
