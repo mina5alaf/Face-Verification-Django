@@ -18,6 +18,7 @@
 
 ## Request:
   - using Postman (or any other software), send a request in the body as
+
 `{
 "image_url": "ABSOLUTE PATH TO YOUR IMAGE"
 }`
