@@ -1,0 +1,9 @@
+Django==4.2.13
+onnx==1.16.1
+onnxruntime==1.18.0
+tensorflow
+tf2onnx==1.16.1
+pandas
+scikit-learn
+opencv-python-headless
+matplotlib
