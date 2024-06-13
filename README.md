@@ -1,5 +1,9 @@
 # Face-Verification-Django
   - A system for face verification built in Django. Integrated with an AI model to recognize faces.
+
+# Demo
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1gyFmGWdkvYhsho1C8Kd1PTOWCozIzFHP/view?usp=drive_link))
     
 # User manual:
   ### Using Django:
