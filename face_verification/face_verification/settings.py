@@ -150,7 +150,7 @@ X_FACES = np.reshape(x_faces, (x_faces.shape[0], FACES.images.shape[1], FACES.im
 
 #input1 = x_faces[1]
 #image = np.asarray(x_faces[1])[None, ...]
-SESS = ort.InferenceSession("C:/Users/minak/Desktop/Face Verification/autoencoder.onnx")
+SESS = ort.InferenceSession("autoencoder.onnx")
 #results_ort = sess.run(['sequential_1'], {"image": image})
 
 
