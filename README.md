@@ -10,9 +10,8 @@ https://github.com/mina5alaf/Face-Verification-Django/assets/36233029/f07cea2f-e
   - fork this repo
   - clone it on your local machine
   - change the working directory to the cloned one using CMD
-  - then go to face_verification directory
-  - install the requirement file `pip install -r requirements.txt`
-  - in the cmd write: `python manage.py runserver`
+  - install the requirement file `pip install -r face_verification/requirements.txt`
+  - in the cmd write: `python face_verification/manage.py runserver`
   - Make sure that you are activating a virtual env or conda env
   
   ### Using docker
