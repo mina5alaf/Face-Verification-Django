@@ -19,7 +19,7 @@ https://github.com/mina5alaf/Face-Verification-Django/assets/36233029/f07cea2f-e
   - fork this repo
   - clone it on your local machine
   - change the working directory to the cloned one using CMD
-  - run: `docker build -t "WRITE IMAGE NAME"`
+  - run: `docker build . -t "WRITE IMAGE NAME"`
   - run: `docker run "IMAGE NAME"`
   
   ## Request:
