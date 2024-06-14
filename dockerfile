@@ -1,7 +1,7 @@
 # base image  
 FROM python:3.9   
 # setup environment variable  
-ENV DockerHOME
+ENV DockerHOME="/"
 
 # set work directory  
 RUN mkdir -p $DockerHOME  
